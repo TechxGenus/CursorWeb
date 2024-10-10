@@ -1,0 +1,3 @@
+vllm
+fastapi
+Levenshtein
